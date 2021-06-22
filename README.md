@@ -3,6 +3,14 @@ This repo contains the resources to support the [Queensland AI](https://www.meet
 
 Each week, the mentors will create and share a slide deck (recapping and building on the week's fast.ai lesson) and iPython Workbook (with coding exercises/walkthroughs to further build on the official course notebook). These are available in the [notebooks](notebooks) and [weekly-recap-slides](weekly-recap-slides) folders.
 
+### Accessing these notebooks/resources
+To clone this github repository onto your own computer or your cloud instance (e.g. EC2), you can do a git clone of the repository. to do this:
+1. Open up a terminal on the machine
+2. `cd` into the directory that you'd like to clone the repository into
+3. Run `git clone https://github.com/michaeltremeer/queensland-ai-fastai-course-resources.git`
+
+Once the repo is on your machine, you can update it week by week by `cd`ing to the directory and running `git pull` to pull the latest changes. Note that you will need to `commit` any changes you have made before your pull.
+
 ### Weekly Session Recordings
 Each week's session occurs on Tuesday at 6pm AEST. It is recorded and will be available on Youtube following the livestream. Links to watch these sessions are below.
 
